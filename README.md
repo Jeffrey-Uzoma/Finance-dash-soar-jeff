@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+After running npm install
+install the d3.js 
+then install react-router-dom
+set the global tailwind css dependencies
+import images inside each folder that is required
